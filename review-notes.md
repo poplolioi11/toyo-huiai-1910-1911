@@ -1,5 +1,5 @@
 # Review notes
 
-Version 0.1.0. IIIF frames 54–68.
+Version 0.2.0. IIIF frames 54–68.
 
-Initial edition. The fixed scans were read with the aid of the institutional OCR. The unnumbered report opening and printed pages 2–16 were recorded separately. Unresolved print, plan numbers and library marks retain their reading notes.
+The two readings were compared across all 15 fixed frames (54–68). Image checks covered the unnumbered opening, numbered pages 2–16, six photograph captions, site and building plans, discharge categories, the rotated accounts and the 42 entries in the building-gift list. Bracketed table headers are editorial. Printed amounts, rates and denominator wording are retained. Seemingly inconsistent figures include the women’s and total deaths, the second Not improved rate and the first Not insane rate in 1910, and the second Cured rate and the denominator wording on the Died row in 1911. Fifteen checks of financial sums and the two currency columns agreed with the print. The crossed-out shelf mark at frame 54 remains partly unresolved. Faint footprint digits 4 and 21 at frame 56 are provisional. The report was printed in Canton by the China Baptist Publication Society. The surviving copy states the reporting years and leaves the publication year unstated. This edition has AI-assisted image review and no measured character error rate, human double proofreading or expert validation.

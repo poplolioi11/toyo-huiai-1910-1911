@@ -19,7 +19,7 @@ Toyo Bunko, Morrison Pamphlets, P-III-a-1898, IIIF frames 54–68. Original impr
 
 AI-assisted reading used the fixed scans. Printed spelling, typographical anomalies and numeric values are retained. Spaces are normalized. Illustrations are represented by their surviving captions and labels. A printed total may differ from the sum of its rows. A square (□) means a reading is unresolved. See the notes for locations.
 
-Version 0.1.0. This dataset has no measured error rate or expert proofreading.
+Version 0.2.0. This dataset has no measured error rate or expert proofreading.
 ## Rights and citation
 
 Historical printed text is in the public domain. The source OCR is attributed to Toyo Bunko, Morrison Pamphlets collection, under CC BY 4.0. New editorial text and encoding are available under CC BY 4.0 wherever copyright applies. Attribution for the source text layer: 東洋文庫 / Toyo Bunko. Credit the historical source separately from the transcription by Chu, Chen-Yu (https://orcid.org/0009-0003-9738-6914). To report a correction, include the scan number and the relevant text in a GitHub issue.
