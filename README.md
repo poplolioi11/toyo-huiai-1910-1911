@@ -23,3 +23,12 @@ Version 0.2.0. This dataset has no measured error rate or expert proofreading.
 ## Rights and citation
 
 Historical printed text is in the public domain. The source OCR is attributed to Toyo Bunko, Morrison Pamphlets collection, under CC BY 4.0. New editorial text and encoding are available under CC BY 4.0 wherever copyright applies. Attribution for the source text layer: 東洋文庫 / Toyo Bunko. Credit the historical source separately from the transcription by Chu, Chen-Yu (https://orcid.org/0009-0003-9738-6914). To report a correction, include the scan number and the relevant text in a GitHub issue.
+
+## 公開版本與引用 · Public editions
+
+- [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24368861)
+- [Zenodo 作品與歷次版本](https://doi.org/10.5281/zenodo.24368720)
+- [GitHub v0.2.0](https://github.com/poplolioi11/toyo-huiai-1910-1911/releases/tag/v0.2.0)
+- [古中國醫學史文獻轉錄資料社群](https://zenodo.org/communities/late-qing-medical-history)
+
+封存檔可用下載 ZIP 內的 `SHA256SUMS` 核對。

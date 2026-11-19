@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original report.",
   "type": "dataset",
-  "title": "廣州惠愛醫癲院年報（1910–1911） / The John G. Kerr Hospital for the Insane: Report for the Years 1910 and 1911 — Transcription Dataset",
+  "title": "廣州惠愛醫癲院年報(1910–1911) / The John G. Kerr Hospital for the Insane: Report for the Years 1910 and 1911 — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-19",
   "authors": [
@@ -27,5 +27,6 @@
     "院舍與照護",
     "ward accommodation",
     "institutional care"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24368861"
 }
