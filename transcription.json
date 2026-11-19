@@ -1,0 +1,1742 @@
+{
+  "source_title": "The John G. Kerr Hospital for the Insane: Report for the Years 1910 and 1911",
+  "title_zh": "廣州惠愛醫癲院年報（1910–1911）",
+  "version": "0.1.0",
+  "language": "en",
+  "catalogue": "https://morrison.toyobunko-lab.jp/en/item/P-III-a-1898",
+  "manifest": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/manifest",
+  "source_ocr": "https://morrison.toyobunko-lab.jp/api/dts/document?resource=P-III-a-1898",
+  "shelfmark": "P-III-a-1898",
+  "source_provider": "東洋文庫 / Toyo Bunko",
+  "historical_institution": "The John G. Kerr Hospital for the Insane",
+  "imprint": "China Baptist Publication Society, Canton; no year stated in the copy",
+  "rights": "Historical printed text is in the public domain. The source OCR is attributed to Toyo Bunko, Morrison Pamphlets collection, under CC BY 4.0. New editorial text and encoding are available under CC BY 4.0 wherever copyright applies.",
+  "coverage_note": "The record covers the report text, notes, diagram labels, photograph captions and tables in the source frame range.",
+  "frames": [
+    {
+      "id": "f054",
+      "frame": 54,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p54",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0054.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0054.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "9d44c0b54a6ff0dd3fc8a94541b5af8da0a21b725d5cb940a813e3ebafc51c54"
+      },
+      "parts": [
+        {
+          "id": "f054-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "outside-object",
+          "units": [],
+          "notes": []
+        },
+        {
+          "id": "f054-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "THE JOHN G. KERR HOSPITAL\nFOR THE INSANE\nCanton, China\n\nREPORT FOR THE YEARS\n1910 AND 1911",
+              "id": "f054-r-u01"
+            },
+            {
+              "kind": "copy-mark",
+              "text": "1898\n③\nP-III-□",
+              "id": "f054-r-u02"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f054-r-u02",
+              "reason": "The first number and circled 3 are copy marks. The old handwritten and crossed-out shelf mark at the foot is partly obscured; only the prefix is tentatively legible. The measuring scale at left is separate from the leaf.",
+              "status": "unresolved"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f055",
+      "frame": 55,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p55",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0055.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0055.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "0afad0a938676fc844596d2599d7b7460d518d077f4b326c49a96eb112754f2b"
+      },
+      "parts": [
+        {
+          "id": "f055-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": []
+        },
+        {
+          "id": "f055-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "THE JOHN G. KERR HOSPITAL\nFOR THE INSANE\nCanton, China\n\nREPORT FOR THE YEARS\n1910 AND 1911",
+              "id": "f055-r-u01"
+            },
+            {
+              "kind": "table-text",
+              "text": "STAFF:\nChas. C. Selden, Ph.D., M.D.\nJ. A. Hofmann, Ph.B., M,D.\nHo Tsz Yin, M.D.",
+              "rows": [
+                [
+                  "STAFF:"
+                ],
+                [
+                  "Chas. C. Selden, Ph.D., M.D."
+                ],
+                [
+                  "J. A. Hofmann, Ph.B., M,D."
+                ],
+                [
+                  "Ho Tsz Yin, M.D."
+                ]
+              ],
+              "id": "f055-r-u02"
+            },
+            {
+              "kind": "table-text",
+              "text": "BOARD OF TRUSTEES:\nMrs. J. G. Kerr, | of American Presbyterian Mission\nRev. H. V. Noyes, D.D. | “ | “ | “\nRev. J. J. Boggs, | “ | “ | “\nRev. Geo. H. McNeur, | New Zealand Pres. | “\nDr. Chas. C. Selden",
+              "rows": [
+                [
+                  "BOARD OF TRUSTEES:"
+                ],
+                [
+                  "Mrs. J. G. Kerr,",
+                  "of American Presbyterian Mission"
+                ],
+                [
+                  "Rev. H. V. Noyes, D.D.",
+                  "“",
+                  "“",
+                  "“"
+                ],
+                [
+                  "Rev. J. J. Boggs,",
+                  "“",
+                  "“",
+                  "“"
+                ],
+                [
+                  "Rev. Geo. H. McNeur,",
+                  "New Zealand Pres.",
+                  "“"
+                ],
+                [
+                  "Dr. Chas. C. Selden"
+                ]
+              ],
+              "id": "f055-r-u03"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f056",
+      "frame": 56,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p56",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0056.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0056.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "bff785038adbff27ea8089103e3b3686b08561787f100dc9cbf9e3d9c192625b"
+      },
+      "parts": [
+        {
+          "id": "f056-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "figure",
+              "text": "1. MRS. KERR’S RESIDENCE.\n2. DR. HOFMANN’S RESIDENCE.\n3. BIBLE WOMEN AND SOME ATTENDANTS LIVE HERE.\n4. CHAPEL.\n5. SHED FOR SOME ATTENDANTS.\n6-20. HOUSES FOR PATIENTS.\n21. HOUSE FOR SOME ATTENDANTS.\n22. KITCHEN AND BATH ROOMS WITH COOKS’ QUARTERS.\n23. COMPOUND OF WELL.\n24. MORTUARY AND LIME HOUSE.\n\nThis piece not yet procured.\nThese three pieces newly acquired.\nCANAL\nBUND",
+              "id": "f056-l-u01"
+            },
+            {
+              "kind": "figure-numbers",
+              "text": "3 | 1 | 2\n6 | 4 | 5\n7\n15\n14\n13\n8 | 12\n22\n23 | 9 | 10 | 11\n24\n20\n19 | 18 | 17 | 16\n21",
+              "id": "f056-l-u02"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f056-l-u02",
+              "reason": "The footprint keys 4 and 21 are faint; their readings agree with the numbered legend and are retained provisionally. The keys are recorded from upper to lower location in the original plan.",
+              "status": "unresolved"
+            }
+          ]
+        },
+        {
+          "id": "f056-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "THE JOHN G. KERR HOSPITAL FOR THE INSANE\nCanton, China\n\nReport for the years 1910 and 1911",
+              "id": "f056-r-u01"
+            },
+            {
+              "kind": "body",
+              "text": "“All things shall become new.” Outwardly at least this has come to be largely true in China today. A new form of government, new officials, new customs, a new life and spirit, a new calendar—in fact this is a new China. Nor was there ever before such an opportunity to preach the Gospel for never before was there such a willingness to hear and read for one’s self.",
+              "id": "f056-r-u02"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Effects of the war",
+              "id": "f056-r-u03"
+            },
+            {
+              "kind": "body",
+              "text": "While on our quiet side of the river we have been thus far unmolested in our work, seeing nothing and hearing but little of the noise of battle waged elsewhere we have, nevertheless, felt keenly at several points the inconvenience arising out of the disturbed state of the country. A large part of the support for the patients is still outstanding; because in the general flight of the old time magistrates was one who was responsible for many patients who had been sent from his yamen. With the private cases it is also to some extent true. The price of foodstuffs has risen considerably. For this reason it has been necessary to raise the prices for board slightly. A number of soldiers have been received as patients, they having become insane since the war broke out. Following the times of greatest disturbance in Canton, many patients were taken away by their families amounting to a real exodus.",
+              "id": "f056-r-u04"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Registration",
+              "id": "f056-r-u05"
+            },
+            {
+              "kind": "body",
+              "text": "Many changes have taken place in our work since the last report was issued two years ago. The institution has been registered in the U. S. Consulate-general, Canton, giving it a legal standing corresponding to incorpora-",
+              "id": "f056-r-u06"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f057",
+      "frame": 57,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p57",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0057.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0057.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "3f47f00e30e5350016cce14e955f45e5e95323fe47f0754358a6f588935ec40a"
+      },
+      "parts": [
+        {
+          "id": "f057-l",
+          "side": "L",
+          "printed_page": "2",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "marginal-heading",
+              "text": "New name\nMore land\nFilling in of low land",
+              "id": "f057-l-u01"
+            },
+            {
+              "kind": "body",
+              "text": "tion in America. It was registered also under a new name: The John G. Kerr Hospital for the Insane. Three smanll pieces of adjacent land have been procured. Much of the low-lying land has been filled in so that we are not in such dread of floods as formerly. For this purpose we used broken bricks and pottery, cinders and sand rather than earth, in order to ensure good drainage and rapid drying of the surface after rains, as patients like to sit and lie on the ground. The sand contains some earth and produces a very good sod.",
+              "id": "f057-l-u02"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Canals filled in\nConcrete drains\nWell digging",
+              "id": "f057-l-u03"
+            },
+            {
+              "kind": "body",
+              "text": "During the first year another epidemic of cholera broke out which was, happily, of short duration. This visitation brought home to us again the immediate need of a better water supply than the river and large canal just outside the grounds. The two dirty, unsightly canals within the grounds which menaced the health of all the patients and were directly dangerous to a certain number, were filled in completely and durable concrete drains built in their places. A well eighty-three feet deep was dug and drilled which sends its pure, sparkling water nearly up to the surface. From that level it is pumped up into a native-made, wooden tank having an elevation sufficient to deliver water to the ground floors although the piping has been no more than begun. We are glad to report that since these improvements were made we have had a very decided falling off in the number of cases of bowel trouble.",
+              "id": "f057-l-u04"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Walling in of new compound for women",
+              "id": "f057-l-u05"
+            },
+            {
+              "kind": "body",
+              "text": "Until this last year the men and women have occupied the same compound. But we were able this year to wall in a large part of the newly acquired property and thus provide one-half of the female patients with a compound of their own. This newly acquired property amounted to only one and a-half acres and was made up of six small pieces bought from as many separate owners, which illustrates one of the difficulties in buying land here.",
+              "id": "f057-l-u06"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f057-l-u06",
+              "reason": "The extra n in “smanll” appears in the print, and is retained provisionally as a possible original typographic error.",
+              "status": "unresolved"
+            }
+          ]
+        },
+        {
+          "id": "f057-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "One of two cottages for men which have proved most satisfactory.",
+              "id": "f057-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f058",
+      "frame": 58,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p58",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0058.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0058.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "62560c519f199bc578b680c0629f11daf5addbd8c5e2858fbb1368f441c8db82"
+      },
+      "parts": [
+        {
+          "id": "f058-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "One of the four cottages for women built during 1911.",
+              "id": "f058-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f058-r",
+          "side": "R",
+          "printed_page": "3",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "marginal-heading",
+              "text": "Overcrowded\nMany new buildings",
+              "id": "f058-r-u01"
+            },
+            {
+              "kind": "body",
+              "text": "Much of the time the hospital has been in an overcrowded condition and it has been necessary to build repeatedly in order to keep pace with the ever increasing number of patients. The last report stated that the Provincial Government and the Police Department had made gifts amounting to over $5000 and that other gifts from America and China had raised this amount to over $6000, Mex., available for building purposes. But the large building we hoped at that time to put up had to remain with only plans drawn and ground prepared; because when the bids were in, it appeared that the money on hand was too little for the task.",
+              "id": "f058-r-u02"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "New patients coming continually\nOld building made new",
+              "id": "f058-r-u03"
+            },
+            {
+              "kind": "body",
+              "text": "But meantime the patients were coming in and provision had to be made to receive them. An old brick dwelling house stood on the grounds consisting of a middle portion of two stories and two very “tumbled down” wings. It had already been used to house many patients. The two wings were torn down and built up new two stories high with the best of brick and reinforced concrete, making a good strong house of two stories and many small rooms for renting, being larger than before the change.",
+              "id": "f058-r-u04"
+            },
+            {
+              "kind": "figure",
+              "text": "NEW | OLD | NEW",
+              "id": "f058-r-u05"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Bungalo cottages\nFour more cottages",
+              "id": "f058-r-u06"
+            },
+            {
+              "kind": "body",
+              "text": "Next, two cottages were built bungalo style to hold seventeen patients each. These proved to be so satisfactory that this year we put up four more to hold eighteen each and with the addition of two little rooms,",
+              "id": "f058-r-u07"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f059",
+      "frame": 59,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p59",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0059.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0059.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "7ce4d524de1a9cbc867297d9e13a00abf9a580b7ff75954d4be55350d36c040f"
+      },
+      "parts": [
+        {
+          "id": "f059-l",
+          "side": "L",
+          "printed_page": "4",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "figure",
+              "text": "WARD\nSOUTH\nVERANDA",
+              "id": "f059-l-u01"
+            },
+            {
+              "kind": "figure",
+              "text": "WARD\nSOUTH\nVERANDA",
+              "id": "f059-l-u02"
+            },
+            {
+              "kind": "body",
+              "text": "the one for isolating a disturbed patient and the other for the toilet, beside an extra veranda. It has been thus possible to receive 118 more patients than two years ago.",
+              "id": "f059-l-u03"
+            },
+            {
+              "kind": "figure",
+              "text": "VERANDA\nTOILET\nWARD\nSOUTH\nISOLA-\nTION",
+              "id": "f059-l-u04"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Most satisfactory and economical",
+              "id": "f059-l-u05"
+            },
+            {
+              "kind": "body",
+              "text": "This last style of building, though of the very best of brick with cement floor and tiled roof and substantially built, safe as to fire and most comfortable for the patients, is yet very economical. Four such cottages cost but one-half the price of one large two-story building of four wards although accommodating the same number of patients. The only objection is that the small amount of land available makes it necessary to have some buildings of two stories in order to be able to accommodate a larger number of patients to the acre while still leaving sufficient open space. One of these cottages was built",
+              "id": "f059-l-u06"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f059-r",
+          "side": "R",
+          "printed_page": "5",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "marginal-heading",
+              "text": "Special gift",
+              "id": "f059-r-u01"
+            },
+            {
+              "kind": "body",
+              "text": "with money given by Mr. Patell, a Parsee gentleman who did not wish his name to be placed on the tablet over the door, it being enough, as he said, that he knew the building to be used to help the poor.",
+              "id": "f059-r-u02"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Another special gift",
+              "id": "f059-r-u03"
+            },
+            {
+              "kind": "body",
+              "text": "Recently a Chinese gentleman Wong Tsz Lam wished us to admit his mother, an elderly lady who had become insane. Finding that we had at the time no comfortable room free to receive her, he gave money to build a cottage which she might occupy while under our care so long as needed and which should afterwards be at the disposal of the hospital. That nice little cottage of six rooms is completed.",
+              "id": "f059-r-u04"
+            },
+            {
+              "kind": "figure",
+              "text": "B | A\nPATIENTS\nEAST\nVERANDA\nA. ATTENDANT’S ROOM\nB. TOILET",
+              "id": "f059-r-u05"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Quarters for attendants",
+              "id": "f059-r-u06"
+            },
+            {
+              "kind": "body",
+              "text": "The removal of so many women to the new compound necessitated the building of new quarters for the women attendants and the night watchwoman in that compound. A new shed was erected in the male compound for one-half the male attendants. The other half are still outside the compound wall.",
+              "id": "f059-r-u07"
+            },
+            {
+              "kind": "figure",
+              "text": "VERANDA | EAST\nWOMEN ATTENDANTS\nQUARTERS",
+              "id": "f059-r-u08"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Bund",
+              "id": "f059-r-u09"
+            },
+            {
+              "kind": "body",
+              "text": "One side of the hospital grounds lies along a canal. A fine, strong bund, six feet high, was erected for one-third of the distance,—110 feet—using rough granite blocks below and moulded concrete blocks above, the latter made by our own workmen.",
+              "id": "f059-r-u10"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f060",
+      "frame": 60,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p60",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0060.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0060.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "1939ae5c575a6b603c3d12e77ae68810e6b7b7fa2a965f58b203a38cb0fa13ee"
+      },
+      "parts": [
+        {
+          "id": "f060-l",
+          "side": "L",
+          "printed_page": "6",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "marginal-heading",
+              "text": "Bath rooms",
+              "id": "f060-l-u01"
+            },
+            {
+              "kind": "body",
+              "text": "We were able early in the first year to move into the commodious, new kitchen located in the centre of the grounds. Adjacent to this were erected six rooms to be used for bathing and for washing clothes as well as an upper story to be used as cooks’ quarters. However, the increasing number of patients made it necessary until rather recently to use the bath rooms as sleeping rooms for patients.\n\nOf all the 12 buildings which have been erected during these two years, nine are dwellings for patients, two are attendants’ quarters and one is the bath-rooms and cooks’ quarters. Two are built of boards, but ten of them are built of the very best of brick with concrete floors and tiled roofs and are in every way most substantial. They should last for fifty or one hundred years, at least, and with little outlay for repairs as they are of very simple design.\n\nThus building has been going on almost continually during these two years.",
+              "id": "f060-l-u02"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "American flag",
+              "id": "f060-l-u03"
+            },
+            {
+              "kind": "body",
+              "text": "Finally, that it might be known to any and all of the many tens of thousands of soldiers that the hospital is an American institution, we have raised a fine flagstaff from which will fly the ensign of the new government at the top and the stars and stripes below, this disposition being dictated by courtesy to the country in which we are but guests. Americans and American institutions are in great favor among the Chinese at the present time. The beautiful, large flag is the work of Mrs. Allen’s skilful fingers.",
+              "id": "f060-l-u04"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Industries",
+              "id": "f060-l-u05"
+            },
+            {
+              "kind": "body",
+              "text": "This year we have introduced two new industries among the patients—the making of the warm, padded coats supplied in winter to all the officials’ cases, and the making of the strong baskets used by the patients for carrying sand etc. for filling in the low land.",
+              "id": "f060-l-u06"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Personnel",
+              "id": "f060-l-u07"
+            },
+            {
+              "kind": "body",
+              "text": "As to the personnel.—We are glad to report that Mrs. Kerr has been with us the whole of the two years and",
+              "id": "f060-l-u08"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f060-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Attendants and Patients waiting at the kitchen entrance for rice to be served.",
+              "id": "f060-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f061",
+      "frame": 61,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p61",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0061.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0061.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "fadce644ba5f7e8b7ef77aff4a41c0247b90ce544b86d3d9dd22007d026be68a"
+      },
+      "parts": [
+        {
+          "id": "f061-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Carrying the rice to the several wards for distribution.",
+              "id": "f061-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f061-r",
+          "side": "R",
+          "printed_page": "7",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "body",
+              "text": "untiring in carrying on the evangelistic work of the hospital and dispensary as well as that for the children of the neighborhood.\n\nDr. Hofmann attended the meeting of the Medical Missionary Association of China at Hankow in 1910. He has had charge of all the building operations almost to the exclusion of medical work which has been a cause of disappointment to himself as well as to the superintendent. Nearly every missionary has to turn builder and superintend his own house-building. But it has been extreme in this case. With only two foreigners on the staff it could not be otherwise. All such building work needs the direct and constant oversight of a foreigner to ensure good workmanship.",
+              "id": "f061-r-u01"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Chinese physician",
+              "id": "f061-r-u02"
+            },
+            {
+              "kind": "body",
+              "text": "An important acquisition to the staff has been that of Dr. Ho Tsz Yiu, a Chinese gentleman taught medicine by Dr. Kerr, who has fitted nicely into a place which seems to have been left for him. We believe the Master sent him to us as the work of administration, medical attendance and building had come to be too much of a burden for the two foreign physicians to bear alone. He is being fitted also thus to take charge of some similar institution at some time in the future and at some other city.",
+              "id": "f061-r-u03"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Alcohol a cause of insanity",
+              "id": "f061-r-u04"
+            },
+            {
+              "kind": "body",
+              "text": "We note with sorrow the increasing number of cases of insanity of which the exciting cause is alcohol and a considerable number of cases of the acute delusional form of alcoholic psychosis. We fear it comes from the increased use of foreign liquors or, at least, because of habits acquired by contact with foreigners.",
+              "id": "f061-r-u05"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "General paralysis of the insane",
+              "id": "f061-r-u06"
+            },
+            {
+              "kind": "body",
+              "text": "Another fact which has come to light is the large number of cases of general paralysis. In former years few such cases found their way here or, it may be, they were not all recognized. We were then surprised at the small number knowing, as we did, the great prevalence of syphilis. But during the last few years and particularly during the last year the number has increased markedly.",
+              "id": "f061-r-u07"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f061-r-u07",
+              "reason": "The title page has “Ho Tsz Yin”; the last letter of “Ho Tsz Yiu” appears as u here. Retain the two forms at their own locations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f062",
+      "frame": 62,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p62",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0062.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0062.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "d1fb93d58e0dcac77fcbcf7d9877f7dd82069e988a6407b7bbd5811adf97af0a"
+      },
+      "parts": [
+        {
+          "id": "f062-l",
+          "side": "L",
+          "printed_page": "8",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "body",
+              "text": "The symptoms are the same as elsewhere and the patients die as early, many within a few months after being received: because they are seldom brought at the beginning of the disease.\n\nThere remains still much to do for the comfort and welfare of the patients and for the accommodation of larger numbers.",
+              "id": "f062-l-u01"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Needs",
+              "id": "f062-l-u02"
+            },
+            {
+              "kind": "body",
+              "text": "We need first a good water-heating apparatus for large quantities of water.\n\nThen we need two small buildings which can be warmed during the cold weather, one for the men and one for the women, to make more comfortable such as are feeble or who for other reasons need to be kept warm artificially.\n\nWe need more houses for the women so that they may all be removed to their own compound. This will leave just that amount of room free for men.\n\nWe need a water tower and water-piping to carry the pure well-water into all the many buildings.\n\nWe need money to complete the bund along the canal which will reclaim a considerable strip of land and prevent the compound wall from falling.\n\nWe greatly need an administration building.\nWe need a new chapel.\nAnd we need very urgently money to make extensive repairs on the two large buildings first erected.",
+              "id": "f062-l-u03"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Wanted a physician",
+              "id": "f062-l-u04"
+            },
+            {
+              "kind": "body",
+              "text": "Another urgent need is that of a new foreign physician to take the place of the superintendent while on a very needed furlough and to remain thereafter as a permanent, additional member of the staff. A second new foreign physician will be needed in 1913 to take the place of Dr. Hofmann who will then go on his furlough but who plans, upon his return to China, to give his time entirely to teaching in the new union medical school.",
+              "id": "f062-l-u05"
+            },
+            {
+              "kind": "marginal-heading",
+              "text": "Religious work",
+              "id": "f062-l-u06"
+            },
+            {
+              "kind": "body",
+              "text": "This hospital was opened as a distinctly Christian institution. And while its usefulness in religious work is first that it furnishes an object lesson of Christian love and",
+              "id": "f062-l-u07"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f062-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "A group of patients employed in filling in the low land.",
+              "id": "f062-r-u01"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f063",
+      "frame": 63,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p63",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0063.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0063.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "eb9076041d79afa253f2937e5648534123ad7f772c877aacc76f80eca14b664b"
+      },
+      "parts": [
+        {
+          "id": "f063-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "caption",
+              "text": "Comfortable new quarters for some of the women attendants.",
+              "id": "f063-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f063-r",
+          "side": "R",
+          "printed_page": "9",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "body",
+              "text": "helpfulness, it is also an evangelistic agency. And we hope that nothing may arise to hinder it being a bright witness for God among this needy people. The report of the religious work is given by Mrs. Kerr.",
+              "id": "f063-r-u01"
+            },
+            {
+              "kind": "heading",
+              "text": "HOSPITAL EVANGELISTIC WORK, 1910–1911",
+              "id": "f063-r-u02"
+            },
+            {
+              "kind": "byline",
+              "text": "MRS. J. G. KERR",
+              "id": "f063-r-u03"
+            },
+            {
+              "kind": "body",
+              "text": "During the past two years the Evangelistic work has gone on without a break. Morning prayers, one of its most important features, occur daily except on Sabbath, conducted by Dr. Selden assisted by our native Evangelist. In the absence of our Superintendent at any time Dr. Hofmann takes his place. On Dispensing days the Evangelist and our two Bible Readers tell the old old story to the men and women who come for healing. From time to time there have been many who have come not for medicine but “to hear the doctrine” which has given us great encouragement. Two of these women have received baptism; a third died without having had an opportunity of confessing Christ but her trust was in Him and all fear of death, seemed taken away. Each Tuesday we have a prayer-meeting held especially for the women attendants which has proved a great blessing to us all. Those who have come to the Institution for employment only, having never heard of the one living and true God, are now many of them his professed followers. Wednesday evening the helpers both men and women gather and spend a half hour in singing, which they enjoy and which is most beneficial to our music at our various services. The singing is followed by a prayer meeting usually led by the Evangelist. On Thursday evening the members of the Brotherhood conduct a service of Bible study of their own. A Primary Sabbath School composed of Boat Children meet in the chapel every Sabbath morning at 8 a.m. The equipment for this work is not all we could wish but a great point is gained in getting hold of these waifs whose religious instruction is measured by this one hour, one day in the week. The mother of one of these children joined the church at our last communion. Miss McEwan of the New Zealand Mission has given valuable assistance",
+              "id": "f063-r-u04"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f064",
+      "frame": 64,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p64",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0064.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0064.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "715e42e688d6cb018b8cfd59d7a563b25f20552545ba10bc1cbd09445aa5e3f3"
+      },
+      "parts": [
+        {
+          "id": "f064-l",
+          "side": "L",
+          "printed_page": "10",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "body",
+              "text": "in the singing and in black board illustrations of the lessons. Her other duties prevent her doing so longer; but while we regret she must leave us we rejoice that just at this juncture Mrs. Machle is able to join us in this work. The 10 o’clock Bible class varying in number from 60 to 80 is conducted by Dr. Selden. They use the Westminster Lessons so are in touch with the schools in the home land. At 11 o’clock we have a preaching service and the pulpit is generally supplied by students from our Theological Seminary at Fati. Thanks are due Mrs. Allen who presides at the organ for this service and who has at times also played at morning prayers. During the 2 years 20 have received baptism of these",
+              "id": "f064-l-u01"
+            },
+            {
+              "kind": "list",
+              "text": "6 were Male Attendants\n6 Recovered men patients\n5 Female Attendants\n3 women residing in the vicinity of the Hospital",
+              "id": "f064-l-u02"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f064-r",
+          "side": "R",
+          "printed_page": "11",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "Statistics for 1910.",
+              "id": "f064-r-u01"
+            },
+            {
+              "kind": "table-text",
+              "text": "Entered hospital | men, 195 | 274\n” ” | women, 79 |\nDischarged | men, 169 | 236\n | women, 67 |\nOf the discharged these were:\nCured | men, 56 | 86 or 31.4 % of those entered, 36.4 %\n | women, 30 | of those discharged.\nImproved, † | men, 31 | 44 or 16 % of those entered, 18.6 %\n | women, 13 | of those discharged\nNot improved, § | men, 38 | 45 or 16.4 % those entered, 36.4 %\n | women, 7 | of those discharged.\nDied, * | men, 39 | 54 or 19.7 % those entered, 22.9 %\n | women, 25 | of those discharged.\nNot insane | men, 5 | 7 or 26 % those entered, 3 %\n | women, 2 | of those discharged.\nPatients in hospital, Jan. 1, 1910, | 215\n” ” ” Dec. 31, 1910, | 253\nIncrease in population during year | 38",
+              "rows": [
+                [
+                  "Entered hospital",
+                  "men, 195",
+                  "274"
+                ],
+                [
+                  "” ”",
+                  "women, 79",
+                  ""
+                ],
+                [
+                  "Discharged",
+                  "men, 169",
+                  "236"
+                ],
+                [
+                  "",
+                  "women, 67",
+                  ""
+                ],
+                [
+                  "Of the discharged these were:"
+                ],
+                [
+                  "Cured",
+                  "men, 56",
+                  "86 or 31.4 % of those entered, 36.4 %"
+                ],
+                [
+                  "",
+                  "women, 30",
+                  "of those discharged."
+                ],
+                [
+                  "Improved, †",
+                  "men, 31",
+                  "44 or 16 % of those entered, 18.6 %"
+                ],
+                [
+                  "",
+                  "women, 13",
+                  "of those discharged"
+                ],
+                [
+                  "Not improved, §",
+                  "men, 38",
+                  "45 or 16.4 % those entered, 36.4 %"
+                ],
+                [
+                  "",
+                  "women, 7",
+                  "of those discharged."
+                ],
+                [
+                  "Died, *",
+                  "men, 39",
+                  "54 or 19.7 % those entered, 22.9 %"
+                ],
+                [
+                  "",
+                  "women, 25",
+                  "of those discharged."
+                ],
+                [
+                  "Not insane",
+                  "men, 5",
+                  "7 or 26 % those entered, 3 %"
+                ],
+                [
+                  "",
+                  "women, 2",
+                  "of those discharged."
+                ],
+                [
+                  "Patients in hospital, Jan. 1, 1910,",
+                  "215"
+                ],
+                [
+                  "” ” ” Dec. 31, 1910,",
+                  "253"
+                ],
+                [
+                  "Increase in population during year",
+                  "38"
+                ]
+              ],
+              "id": "f064-r-u02"
+            },
+            {
+              "kind": "footnote",
+              "text": "† Improved, as used here, means that the disease process was improved and not the symptoms only. It is a common sight to see a temporary improvement even in demented cases. One cannot say in such cases that the disease proces is improved.\n\nUnhappily many cases are taken away after improvement has begun but before full recovery in the hope that this will take place at home.\n\n§ Many patients, hopelessly insane, are removed from the hospital by their friends when they realize that nothing can be done for them.",
+              "id": "f064-r-u03"
+            },
+            {
+              "kind": "table-text",
+              "text": "* The causes of death were:\nGeneral paralysis | 15\nDysentery | 11\nCholera | 7\nPalmonary tuberculosis | 5\nPlague, intussusception beri beri, septicaemia, etc. | 16",
+              "rows": [
+                [
+                  "* The causes of death were:"
+                ],
+                [
+                  "General paralysis",
+                  "15"
+                ],
+                [
+                  "Dysentery",
+                  "11"
+                ],
+                [
+                  "Cholera",
+                  "7"
+                ],
+                [
+                  "Palmonary tuberculosis",
+                  "5"
+                ],
+                [
+                  "Plague, intussusception beri beri, septicaemia, etc.",
+                  "16"
+                ]
+              ],
+              "id": "f064-r-u04"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f064-r-u04",
+              "reason": "The printed table gives 25 in the women’s died row and 54 in its joined total, and prints “36.4 %” in the not-improved row and “26 %” in the not-insane row. Keep their printed values; the column is not recomputed in the transcription. “proces” and “Palmonary” retain the spelling visible in this copy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f065",
+      "frame": 65,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p65",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0065.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0065.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "cb352cd15724c5a23d8afd3c87bfc718235e51251cdde9ba99e280ec1abf47fa"
+      },
+      "parts": [
+        {
+          "id": "f065-l",
+          "side": "L",
+          "printed_page": "12",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "Statistics for 1911.",
+              "id": "f065-l-u01"
+            },
+            {
+              "kind": "table-text",
+              "text": "Entered hospital | men, 209 | 291\n” ” | women, 82 |\nDischarged | men, 176 | 238\n” | women, 62 |\nOf the discharged there were:\nCured, * | men, 59 | 81 or 27.8 % of those entered,\n | women, 22 | 34.8 % of those discharged.\nImproved, ‡ | men, 40 | 49 or 16.8 % of those entered,\n | women, 9 | 20.6 % of those discharged.\nNot improved † | men, 54 | 68 or 23.4 % of those entered,\n | women, 14 | 28.6 % of those discharged.\nDied, ¶ | men, 26 | 38 or 13.0 % of those entered,\n | women, 12 | 16.0 % of full number treated.\nNot insane | men, 0 | 2\n | women, 2 |\nPopulation Jan. 1st 1911 | men 150 | 253\n | women 103 |\n” Dec. 31st 1911 | men 183 | 306\n | women 123 |\n” increase during year, | 53",
+              "rows": [
+                [
+                  "Entered hospital",
+                  "men, 209",
+                  "291"
+                ],
+                [
+                  "” ”",
+                  "women, 82",
+                  ""
+                ],
+                [
+                  "Discharged",
+                  "men, 176",
+                  "238"
+                ],
+                [
+                  "”",
+                  "women, 62",
+                  ""
+                ],
+                [
+                  "Of the discharged there were:"
+                ],
+                [
+                  "Cured, *",
+                  "men, 59",
+                  "81 or 27.8 % of those entered,"
+                ],
+                [
+                  "",
+                  "women, 22",
+                  "34.8 % of those discharged."
+                ],
+                [
+                  "Improved, ‡",
+                  "men, 40",
+                  "49 or 16.8 % of those entered,"
+                ],
+                [
+                  "",
+                  "women, 9",
+                  "20.6 % of those discharged."
+                ],
+                [
+                  "Not improved †",
+                  "men, 54",
+                  "68 or 23.4 % of those entered,"
+                ],
+                [
+                  "",
+                  "women, 14",
+                  "28.6 % of those discharged."
+                ],
+                [
+                  "Died, ¶",
+                  "men, 26",
+                  "38 or 13.0 % of those entered,"
+                ],
+                [
+                  "",
+                  "women, 12",
+                  "16.0 % of full number treated."
+                ],
+                [
+                  "Not insane",
+                  "men, 0",
+                  "2"
+                ],
+                [
+                  "",
+                  "women, 2",
+                  ""
+                ],
+                [
+                  "Population Jan. 1st 1911",
+                  "men 150",
+                  "253"
+                ],
+                [
+                  "",
+                  "women 103",
+                  ""
+                ],
+                [
+                  "” Dec. 31st 1911",
+                  "men 183",
+                  "306"
+                ],
+                [
+                  "",
+                  "women 123",
+                  ""
+                ],
+                [
+                  "” increase during year,",
+                  "53"
+                ]
+              ],
+              "id": "f065-l-u02"
+            },
+            {
+              "kind": "footnote",
+              "text": "* The smallest percentage for many years. Probably accounted for by the increase in number of demented cases received.\n\n‡ See foot note to statistics of 1910.\n† ” ” ” ” ” ” ”\n\n¶ A much lower death rate than formerly, attributable, probably, to the improved water supply.",
+              "id": "f065-l-u03"
+            },
+            {
+              "kind": "table-text",
+              "text": "The causes of death were:\nGeneral paralysis | 14\nDysentery | 7\nTumors | Brain | 1 | 4\n | Liver | 1 |\n | Ovarian | 1 |\n | Aortic aneurien | 1 |\nSenility, exhaustion, heart diseased | 13",
+              "rows": [
+                [
+                  "The causes of death were:"
+                ],
+                [
+                  "General paralysis",
+                  "14"
+                ],
+                [
+                  "Dysentery",
+                  "7"
+                ],
+                [
+                  "Tumors",
+                  "Brain",
+                  "1",
+                  "4"
+                ],
+                [
+                  "",
+                  "Liver",
+                  "1",
+                  ""
+                ],
+                [
+                  "",
+                  "Ovarian",
+                  "1",
+                  ""
+                ],
+                [
+                  "",
+                  "Aortic aneurien",
+                  "1",
+                  ""
+                ],
+                [
+                  "Senility, exhaustion, heart diseased",
+                  "13"
+                ]
+              ],
+              "id": "f065-l-u04"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f065-l-u04",
+              "reason": "The high-resolution image confirms the print has “Aortic aneurien”; retain its spelling."
+            }
+          ]
+        },
+        {
+          "id": "f065-r",
+          "side": "R",
+          "printed_page": "13",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "GENERAL STATEMENT OF DAILY ACCOUNT FOR 1910.",
+              "id": "f065-r-u01"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Balance on hand January, 1st",
+                  "$891.95"
+                ],
+                [
+                  "Receipts from all sources exclusive of gifts for buildings",
+                  "$17366.35"
+                ],
+                [
+                  "",
+                  "$18258.30"
+                ]
+              ],
+              "header_row": false,
+              "id": "f065-r-u02"
+            },
+            {
+              "kind": "table-text",
+              "text": "Expenditures.\nKITCHEN.\nRice | $4840.24\n“Sung” | 4495.00\nWood | 1005.99\nWages | 238.64\nSundries | 101.81\n | $10681.68\nGENERAL.\nWages | $2577.82\nWardrobe | 869.23\nDispensary | 271.36\nImprovements and repairs,—filling low land, matshed new kitchen etc. | 1929.72\nMiscellaneous | 934.87\n | $6583.00\nGrand total | $17264.68\nBalance on hand December 31st, | 993.62\n | $18258.30",
+              "rows": [
+                [
+                  "Expenditures."
+                ],
+                [
+                  "KITCHEN."
+                ],
+                [
+                  "Rice",
+                  "$4840.24"
+                ],
+                [
+                  "“Sung”",
+                  "4495.00"
+                ],
+                [
+                  "Wood",
+                  "1005.99"
+                ],
+                [
+                  "Wages",
+                  "238.64"
+                ],
+                [
+                  "Sundries",
+                  "101.81"
+                ],
+                [
+                  "",
+                  "$10681.68"
+                ],
+                [
+                  "GENERAL."
+                ],
+                [
+                  "Wages",
+                  "$2577.82"
+                ],
+                [
+                  "Wardrobe",
+                  "869.23"
+                ],
+                [
+                  "Dispensary",
+                  "271.36"
+                ],
+                [
+                  "Improvements and repairs,—filling low land, matshed new kitchen etc.",
+                  "1929.72"
+                ],
+                [
+                  "Miscellaneous",
+                  "934.87"
+                ],
+                [
+                  "",
+                  "$6583.00"
+                ],
+                [
+                  "Grand total",
+                  "$17264.68"
+                ],
+                [
+                  "Balance on hand December 31st,",
+                  "993.62"
+                ],
+                [
+                  "",
+                  "$18258.30"
+                ]
+              ],
+              "id": "f065-r-u03"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f065-r-u03",
+              "reason": "The account is sideways in the fixed image. The left and right panels are kept separate; dot leaders, rules and braces are represented through the table structure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f066",
+      "frame": 66,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p66",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0066.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0066.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "b6939b7161a059c581086a976a214594d1e21e5ec2dd93cef8f686ce4522b48a"
+      },
+      "parts": [
+        {
+          "id": "f066-l",
+          "side": "L",
+          "printed_page": "14",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "GENERAL STATEMENT OF DAILY ACCOUNT FOR 1911.",
+              "id": "f066-l-u01"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Balance on hand January, 1st",
+                  "$993.62"
+                ],
+                [
+                  "Receipts from all sources exclusive of gifts for buildings,",
+                  "$18797.58"
+                ],
+                [
+                  "",
+                  "$19791.20"
+                ]
+              ],
+              "header_row": false,
+              "id": "f066-l-u02"
+            },
+            {
+              "kind": "table-text",
+              "text": "Expenditures.\nKITCHEN.\nRice | $6046.31\n“Sung” | 5236.54\nWood | 1491.01\nWages | 256.88\nSundries, | 155.36\n | $13186.10\nGENERAL.\nWages | $3067.84\nWardrobe | 773.70\nDispensary | 598.95\nImprovements and repairs,—matshed, water tank etc. | 580.31\nMiscellaneous | 923.66\n | $5944.46\nGrand total, | $19130.56\nBalance on hand Dec. 31s:\nCash, | $24.10\nLoaned to Building Fund | 636 54\n | $660.64 | $660.64\n | | $19791.20",
+              "rows": [
+                [
+                  "Expenditures."
+                ],
+                [
+                  "KITCHEN."
+                ],
+                [
+                  "Rice",
+                  "$6046.31"
+                ],
+                [
+                  "“Sung”",
+                  "5236.54"
+                ],
+                [
+                  "Wood",
+                  "1491.01"
+                ],
+                [
+                  "Wages",
+                  "256.88"
+                ],
+                [
+                  "Sundries,",
+                  "155.36"
+                ],
+                [
+                  "",
+                  "$13186.10"
+                ],
+                [
+                  "GENERAL."
+                ],
+                [
+                  "Wages",
+                  "$3067.84"
+                ],
+                [
+                  "Wardrobe",
+                  "773.70"
+                ],
+                [
+                  "Dispensary",
+                  "598.95"
+                ],
+                [
+                  "Improvements and repairs,—matshed, water tank etc.",
+                  "580.31"
+                ],
+                [
+                  "Miscellaneous",
+                  "923.66"
+                ],
+                [
+                  "",
+                  "$5944.46"
+                ],
+                [
+                  "Grand total,",
+                  "$19130.56"
+                ],
+                [
+                  "Balance on hand Dec. 31s:"
+                ],
+                [
+                  "Cash,",
+                  "$24.10"
+                ],
+                [
+                  "Loaned to Building Fund",
+                  "636 54"
+                ],
+                [
+                  "",
+                  "$660.64",
+                  "$660.64"
+                ],
+                [
+                  "",
+                  "",
+                  "$19791.20"
+                ]
+              ],
+              "id": "f066-l-u03"
+            }
+          ],
+          "notes": [
+            {
+              "anchor": "f066-l-u03",
+              "reason": "The account is sideways in the fixed image. “Dec. 31s:” and the space in “636 54” preserve visible typography; tabular grouping reflects the ruled panels."
+            }
+          ]
+        },
+        {
+          "id": "f066-r",
+          "side": "R",
+          "printed_page": "15",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "heading",
+              "text": "Gifts for Buildings",
+              "id": "f066-r-u01"
+            },
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "",
+                  "Local currency",
+                  "Hongkong currency"
+                ],
+                [
+                  "Mr. P. N. Yang",
+                  "10.00",
+                  ""
+                ],
+                [
+                  "” Manderson",
+                  "",
+                  "5.00"
+                ],
+                [
+                  "” R. S. Kinney",
+                  "50.00",
+                  ""
+                ],
+                [
+                  "Mrs. Chan Hong",
+                  "10.00",
+                  ""
+                ],
+                [
+                  "Capt. E. G. Carré through Mr. Tipson",
+                  "",
+                  "15.00"
+                ],
+                [
+                  "Mr. Yiu Cheuk Yi",
+                  "5.00",
+                  ""
+                ],
+                [
+                  "” Wong Pat Tong",
+                  "3.00",
+                  ""
+                ],
+                [
+                  "” Wu Teng Fong",
+                  "",
+                  "500.00"
+                ],
+                [
+                  "The Parsee gentlemen, Canton, through the British Consul-general",
+                  "",
+                  "100.00"
+                ],
+                [
+                  "Mr. W. H. Williams",
+                  "",
+                  "20.00"
+                ],
+                [
+                  "Mrs. Clarkson",
+                  "",
+                  "10.00"
+                ],
+                [
+                  "Dr. M. W. Niles",
+                  "",
+                  "20.00"
+                ],
+                [
+                  "Friend, through Dr. Ho Kai",
+                  "",
+                  "10.00"
+                ],
+                [
+                  "Zoroastrian Charity Fund, Hongkong",
+                  "",
+                  "75.00"
+                ],
+                [
+                  "Mr. Seung Him Cho",
+                  "5.00",
+                  ""
+                ],
+                [
+                  "Mrs. Yip Ho",
+                  "1.00",
+                  ""
+                ],
+                [
+                  "Through Mr. S. H. Keh, Shanghai",
+                  "35.00",
+                  ""
+                ],
+                [
+                  "Mr. Pang Mun",
+                  "8.00",
+                  ""
+                ],
+                [
+                  "Mr. Kwok Yi Po",
+                  "10.00",
+                  ""
+                ],
+                [
+                  "Mrs. Breinig, U. S. A.",
+                  "",
+                  "112.35"
+                ],
+                [
+                  "Mr. G. S. Montgomery, U. S. A.",
+                  "",
+                  "219.78"
+                ],
+                [
+                  "Mrs. F. J. Huntley, U. S. A. through Mr. G. S. Montgomery",
+                  "",
+                  "219.78"
+                ],
+                [
+                  "Dr. Ho Tsz Yin",
+                  "30.00",
+                  ""
+                ],
+                [
+                  "Mr. Sit Meng Kuk",
+                  "200.00",
+                  ""
+                ],
+                [
+                  "Mr. Geo. H. McNeur",
+                  "",
+                  "50.00"
+                ],
+                [
+                  "Zoroastrian Charity Fund, Hongkong,",
+                  "",
+                  "75.00"
+                ],
+                [
+                  "Mr. M. J. Patell",
+                  "",
+                  "25.00"
+                ],
+                [
+                  "Mrs. Henry Taylor, U. S. A.",
+                  "",
+                  "225.98"
+                ],
+                [
+                  "Mr. M. J. Patell",
+                  "",
+                  "1000.00"
+                ],
+                [
+                  "Ho Kin Chü",
+                  "20.00",
+                  ""
+                ],
+                [
+                  "Mrs. Yip Ho",
+                  "10.00",
+                  ""
+                ],
+                [
+                  "Mr. A. G. Brindle",
+                  "",
+                  "5.00"
+                ]
+              ],
+              "header_row": false,
+              "id": "f066-r-u02"
+            }
+          ],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f067",
+      "frame": 67,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p67",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0067.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0067.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "a6f7d9c8dc5965f2923137085fd7a42eae37231701a40a6dba77e2ac2d11a4c7"
+      },
+      "parts": [
+        {
+          "id": "f067-l",
+          "side": "L",
+          "printed_page": "16",
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "table",
+              "title": "",
+              "rows": [
+                [
+                  "Lau Yin Hing Tong",
+                  "1.80",
+                  ""
+                ],
+                [
+                  "Patients",
+                  "88.37",
+                  ""
+                ],
+                [
+                  "Wong Fuk On Tong,",
+                  "",
+                  "500.00"
+                ],
+                [
+                  "Mr. Leung Kai Cheuk",
+                  "1.60",
+                  ""
+                ],
+                [
+                  "Mr. Yeung To Leung",
+                  "2.00",
+                  ""
+                ],
+                [
+                  "Mrs. Wong Ng,",
+                  "5.00",
+                  ""
+                ],
+                [
+                  "Wong Fuk On Tong",
+                  "",
+                  "400.00"
+                ],
+                [
+                  "Rev. H. O. T. Burkwall",
+                  "",
+                  "10.00"
+                ],
+                [
+                  "Neighborhood through Kwong Yi On shop,",
+                  "63.00",
+                  ""
+                ],
+                [
+                  "Rev. E. W. Thwing,",
+                  "",
+                  "10.00"
+                ],
+                [
+                  "",
+                  "558.77",
+                  "3607.89"
+                ]
+              ],
+              "header_row": false,
+              "id": "f067-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f067-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "blank",
+          "units": [],
+          "notes": []
+        }
+      ]
+    },
+    {
+      "id": "f068",
+      "frame": 68,
+      "source": {
+        "canvas": "https://morrison.toyobunko-lab.jp/api/iiif/3/P-III-a-1898/canvas/p68",
+        "url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0068.tif/full/3200,/0/default.jpg",
+        "original_url": "https://img.toyobunko-lab.jp/iiif/morrison_p/P-III/P-III-a-1898/0068.tif/full/full/0/default.jpg",
+        "size": [
+          3200,
+          2264
+        ],
+        "sha256": "fa99f34c13d96ac11ee62d96614cade55619802ed1091b8ec7863b43ef2e1014"
+      },
+      "parts": [
+        {
+          "id": "f068-l",
+          "side": "L",
+          "printed_page": null,
+          "status": "transcribed",
+          "units": [
+            {
+              "kind": "imprint",
+              "text": "PRESS OF THE CHINA BAPTIST PUBLICATION SOCIETY\nCanton, China",
+              "id": "f068-l-u01"
+            }
+          ],
+          "notes": []
+        },
+        {
+          "id": "f068-r",
+          "side": "R",
+          "printed_page": null,
+          "status": "outside-object",
+          "units": [],
+          "notes": []
+        }
+      ]
+    }
+  ]
+}
